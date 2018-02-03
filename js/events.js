@@ -36,15 +36,10 @@ function submitIt() {
 }
 
 
+// $('h1').on("click", function() {
+//   alert("You clicked me!");
+// });
 
-
-
-
-
-$('h1').on("click", function() {
-  alert("You clicked me!");
-});
-
-$('img').on('load', function(){
-  console.log("I am a minion!");
-});
+// $('img').on('clicked]', function(){
+//   console.log("I am a minion!");
+// });
