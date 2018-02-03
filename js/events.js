@@ -22,7 +22,7 @@ function frameIt() {
 }
 
 function pressIt() {
-  $(document).on('keydown', function(key) {
+  $('#typing').on('keydown', function(key) {
     if(key.which === 81) {
       alert('The "G" key was pressed.');
     }
