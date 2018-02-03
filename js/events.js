@@ -23,8 +23,10 @@ function frameIt() {
 
 function pressIt() {
   $(document).on('keydown', function(key) {
-    if(key.which === )
-  }
+    if(key.which === 81) {
+      alert('The "G" key was pressed.');
+    }
+  });
 }
  
 function submitIt() {
