@@ -40,6 +40,6 @@ function submitIt() {
 //   alert("You clicked me!");
 // });
 
-// $('img').on('clicked]', function(){
+// $('img').on('click', function(){
 //   console.log("I am a minion!");
 // });
